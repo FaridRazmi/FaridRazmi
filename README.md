@@ -1,5 +1,5 @@
 #  About Me:
-Hi , My name is Farid <br>Currently 19 years old <br>Aspiring Cloud Engineer
+Hi , My name is Farid <br>Currently 19 years old <br>Aspiring Ai Engineer
 
 
 ##  Socials:
